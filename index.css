@@ -1,0 +1,18 @@
+:root {
+    -webkit-text-fill-color: aliceblue;
+}
+h1 {
+   color:var(-webkit-text-fill-color);
+
+}
+li{
+    color:var(-webkit-text-fill-color);
+    size: 5cm;
+}
+a{
+    color:var(-webkit-text-fill-color);
+}
+body {
+    background-image: url(./N7.png);
+    background-size: 100%;
+}
