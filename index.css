@@ -1,10 +1,11 @@
 :root {
-    -webkit-text-fill-color: aliceblue;
+    -webkit-text-fill-color:aliceblue;
 }
 h1 {
    color:var(-webkit-text-fill-color);
 
 }
+
 li{
     color:var(-webkit-text-fill-color);
     size: 5cm;
@@ -15,4 +16,21 @@ a{
 body {
     background-image: url(./N7.png);
     background-size: 100%;
+}
+.menuitem {
+    background-color: rgb(21, 204, 198);
+    border: 1px solid #d4d4d4;
+    text-decoration-color: black;
+    text-emphasis-color: black;
+    -moz-text-decoration-color: black;
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+}
+menuitem:hover {
+    background-color: rgb(8, 202, 236);
+}
+.menuitem {
+    border-radius: 10px;
+    margin: 4px;
 }
