@@ -59,7 +59,7 @@ a{
     color:var(-webkit-text-fill-color);
 }
 body {
-    background-image: url(backgr/N7.png);
+    background-image: url(./backgr/N7.png);
     background-size: 100%;
 }
 
