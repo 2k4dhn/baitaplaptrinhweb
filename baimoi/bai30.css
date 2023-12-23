@@ -90,19 +90,14 @@ h2{
 .search__btn:hover {
   background-color: rgb(25, 122, 233);
 }
-/* .hop1{
-    width: 100%;
-    height: 82px;
-    background-color: #daac00;
-} */
 .hop2{
     width: 100%;
-    height: 650px;
+    height: 500px;
     background-color: #fcc302;
 }
 .caption{
     width: 600px;
-    padding-top: 200px;
+    padding-top: 120px;
     height:100px;
     color: white;
     margin-left: 100px;
@@ -230,7 +225,7 @@ h2{
 .hop6-img{
     width: 100%;
     height: 550px;
-
+   
 }
 .icon-hop6{
     display: flex;
@@ -296,7 +291,6 @@ h2{
     width: 500px;
     height: 778px;
     display: flex;
-    /* align-items: center; */
     justify-content: center;
     flex-direction: column;
     gap: 50px;
@@ -346,9 +340,6 @@ h2{
 .icon-play-2{
     width: 510px;
     height: 483px;
-    /* display: flex ;
-    align-items: center ;
-    justify-content: center ; */
     position: absolute;
     right: 795px;
     top: 2234px;
@@ -388,7 +379,6 @@ h2{
     width: 500px;
     height: 778px;
     display: flex;
-    /* align-items: center; */
     justify-content: center;
     flex-direction: column;
     gap: 50px;
@@ -440,9 +430,6 @@ h2{
 .icon-play{
     width: 510px;
     height: 483px;
-    /* display: flex ;
-    align-items: center ;
-    justify-content: center ; */
     position: absolute;
     right: 210px;
     top: 856px;
@@ -517,8 +504,6 @@ footer{
 .footer_link{
     background-color: white;
     border-radius: 50%;
-    /* width: 30px;
-    height: 30px;  */
     padding: 5px;
 }
 li {
