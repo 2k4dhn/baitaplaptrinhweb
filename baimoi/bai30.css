@@ -164,10 +164,9 @@ h2{
 
 }
 .icon-play{
-        margin-left: 920px;
         width: 50px;
         height: 50px;
-        border-radius: 25px;
+        margin-left: 920px;
         margin-top: -210px;
         background-color: #d8be5c;
         position: absolute;
@@ -182,10 +181,7 @@ h2{
     font-size: 24px;
     color: #fcc302;
 }
-.omcho:hover > .hop3-item{
-    opacity: 0.8;
-    margin-top: 0px;
-}
+
 .hop4{
         width: 100%;
         height: 800px;
@@ -234,8 +230,7 @@ h2{
 .hop6-img{
     width: 100%;
     height: 550px;
-    background-image: url(tainghecho.png);
-    opacity: 82%;
+
 }
 .icon-hop6{
     display: flex;
@@ -355,7 +350,7 @@ h2{
     align-items: center ;
     justify-content: center ; */
     position: absolute;
-    right: 800px;
+    right: 795px;
     top: 2234px;
     background-color: rgba(252, 195, 2, 0.5);
     display: none;
