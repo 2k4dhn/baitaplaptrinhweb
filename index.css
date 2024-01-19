@@ -16,7 +16,7 @@ body {
     align-items: center;
     justify-content: space-around;
     margin: 0 auto;
-    background-color:#34a853;
+    background-color:#34a6a8;
     /* padding-top: 10px;
     padding-bottom: 10px; */
     gap: 1000px;
@@ -166,7 +166,7 @@ body {
 }
 
 .header {
-    background-color:  #34a853
+    background-color:  #34a8a2
     color: #fff;
     padding: 10px;
     text-align: center;
