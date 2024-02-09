@@ -258,6 +258,7 @@ img {
 
 .home__data {
   align-self: center;
+
 }
 
 .home__title {
@@ -274,6 +275,7 @@ img {
   display: flex;
   flex-direction: column;
   color: var(--text);
+  
 }
 
 .home__social-icon {
@@ -289,10 +291,12 @@ img {
 }
 
 .home__img {
+  display: flex;
   position: absolute;
   right: 0;
   bottom: 0;
   width: 260px;
+
 }
 
 .home__blob {
